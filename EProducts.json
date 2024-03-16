@@ -1,4 +1,5 @@
 {
+"AllProducts":[
 	"parentLaptops":{
 		"id":"LaptopCategories",
 		"name":"Laptop",
@@ -14,5 +15,6 @@
 		"name":"Computer",
 		"image":"https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
 	},
-	
+]
 }
+
